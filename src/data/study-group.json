@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Matematika Dasar - Aljabar Linear",
+    "desc": "Grup belajar untuk persiapan ujian matematika dan latihan soal HOTS.",
+    "members": 12,
+    "quizDone": 8,
+    "quizTotal": 15,
+    "progress": 53,
+    "icon": "math"
+  },
+  {
+    "title": "Fisika - Mekanika Newton",
+    "desc": "Eksplorasi konsep fisika quantum, mekanika, dan relativitas.",
+    "members": 8,
+    "quizDone": 3,
+    "quizTotal": 15,
+    "progress": 20,
+    "icon": "physics"
+  },
+  {
+    "title": "Bahasa Inggris - Grammar Tenses",
+    "desc": "Persiapan ujian TOEFL, latihan grammar dan speaking.",
+    "members": 15,
+    "quizDone": 12,
+    "quizTotal": 15,
+    "progress": 80,
+    "icon": "english"
+  },
+  {
+    "title": "Geografi Dunia",
+    "desc": "Belajar geografi dunia dan peta interaktif.",
+    "members": 10,
+    "quizDone": 7,
+    "quizTotal": 12,
+    "progress": 58,
+    "icon": "math"
+  },
+  {
+    "title": "Kimia SMA Kelas 11",
+    "desc": "Diskusi soal-soal kimia dan eksperimen sederhana.",
+    "members": 9,
+    "quizDone": 6,
+    "quizTotal": 10,
+    "progress": 60,
+    "icon": "physics"
+  },
+  {
+    "title": "English Conversation Club",
+    "desc": "Latihan speaking dan listening bareng native speaker.",
+    "members": 20,
+    "quizDone": 15,
+    "quizTotal": 25,
+    "progress": 70,
+    "icon": "english"
+  }
+]
